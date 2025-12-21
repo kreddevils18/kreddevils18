@@ -1,35 +1,21 @@
-# Hi there 👋 I'm Kien Hoang
+# Hi, I'm Kien Hoang
 
-I'm a **Software Engineer** with a passion for exploring and implementing technological solutions that streamline everyday tasks. Currently, I'm pursuing my journey as a **full-time indie hacker**, building innovative tools and applications from the ground up.
+I am a software engineer based in Hanoi, Vietnam.
 
-## 🚀 My Core Skills & Technologies:
+Previously, I worked as a Bridge SE and Software Engineer, focusing on data systems and advertising platforms.
 
-Here are some of the technologies I love working with:
+At the beginning of 2025, I decided to go full-time into building my own products. Currently, I am building [Wishlyr](https://wishlyr.com) - a mobile app that helps you shop more intentionally.
 
-- **Backend & System Development:**
+### Tech Stack
 
-  - **Golang** 🐹 (Microservices, High-performance APIs, Concurrency)
-  - **Python** 🐍 (Data Processing, Scripting,...)
-  - Databases: PostgreSQL, MongoDB, MySQL, Redis
-  - Containerization & Orchestration: Docker, Kubernetes
+- **Languages**: Go, Python, TypeScript
+- **Web**: Next.js, React, TailwindCSS
+- **Infrastructure**: Docker, AWS, GCP, Terraform, Ansible
 
-- **Frontend & Web Development:**
+### Connect
 
-  - **Next.js** ⚛️ (React, SSR/SSG)
-  - TypeScript, JavaScript (ES6+)
-  - HTML5, CSS3 (Tailwind CSS, Styled Components)
+- [Twitter](https://dub.sh/kienhoang-twitter)
+- [LinkedIn](https://dub.sh/kienhoang-linkedin)
+- Email: kienincl@gmail.com
 
-## 📊 My GitHub Stats:
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kreddevils18&show_icons=true&theme=radical&count_private=true)
-
-## 📊 My Top Programming Languages:
-
-![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreddevils18)
-
-## 💬 Let's Connect\!
-
-I'm always open to discussing new ideas, collaborations, or opportunities. Feel free to reach out\!
-
-- **LinkedIn:** https://www.linkedin.com/in/hoang-trung-kien-bb675b22a/
-- **Email:** kreddevils18@gmail.com
+![Snake animation](https://github.com/kreddevils18/kreddevils18/raw/output/github-contribution-grid-snake.svg)
