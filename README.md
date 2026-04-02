@@ -1,21 +1,38 @@
 # Hi, I'm Kien Hoang
 
-I am a software engineer based in Hanoi, Vietnam.
+I live in Hanoi, Vietnam. We're living in a wild era — technology, robotics, and AI are evolving faster than ever. I want to ride that wave and build real solutions to real problems, fast.
 
-Previously, I worked as a Bridge SE and Software Engineer, focusing on data systems and advertising platforms.
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-006EFF?style=flat&logo=swift&logoColor=white)
+![Web](https://img.shields.io/badge/Web-000000?style=flat&logo=vercel&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile-A4C639?style=flat&logo=android&logoColor=white)
 
-At the beginning of 2025, I decided to go full-time into building my own products. Currently, I am building [Wishlyr](https://wishlyr.com) - a mobile app that helps you shop more intentionally.
+---
 
-### Tech Stack
+### Current Project
 
-- **Languages**: Go, Python, TypeScript
-- **Web**: Next.js, React, TailwindCSS
-- **Infrastructure**: Docker, AWS, GCP, Terraform, Ansible
+**[wishlyr](https://wishlyr.com)** — A mobile app that helps users stop impulse buying and save money.
+
+**[subredly](https://subredly.com)** — Find leads on Reddit instantly, without endless scrolling.
+
+**[vivucode](https://vivucode.vn)** — Curated coupon deals for flights, hotels, and travel in Vietnam.
+
+---
 
 ### Connect
 
-- [Twitter](https://dub.sh/kienhoang-twitter)
-- [LinkedIn](https://dub.sh/kienhoang-linkedin)
-- Email: kienincl@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kien-hoang.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://dub.sh/kienhoang-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://dub.sh/kienhoang-linkedin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kienincl@gmail.com)
 
-![Snake animation](https://github.com/kreddevils18/kreddevils18/raw/output/github-contribution-grid-snake.svg)
+---
+
+### What I'm doing
+
+- Exploring how to apply AI in software development
+- Starting my entrepreneurial journey
